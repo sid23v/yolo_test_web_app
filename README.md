@@ -7,7 +7,7 @@ cd yolo_test_app <br>
 python - m venv my_venv <br>
 4. Activate the virtual environment <br>
 For Windows - my_venv\Scripts\activate <br>
-For Mac/Linux - source venv/bin/activate <br>
+For Mac/Linux - source my_venv/bin/activate <br>
 5. Install dependencies <br>
 pip install -r requirements.txt <br>
 6. Run the Flask App <br>
